@@ -10,20 +10,9 @@ By definition, a product manager is an individual who drives the product vision 
 
 - [Tools](#tools)
   - [OneNote](#onenote)
-  - [Bear](#bear)
-  - [Trello](#trello)
-  - [Taiga](#taiga)
   - [To-Do](#to-do)
   - [Notion](#notion)
-  - [Balsamiq](#balsamiq)
-  - [Sketch](#sketch)
   - [Figma](#figma)
-  - [Taskade](#taskade)
-  - [Notejoy](#notejoy)
-  - [productboard](#productboard)
-  - [logchimp](#logchimp)
-  - [Hellonext](#hellonext)
-  - [Screeb](#screeb)
   - [Obsidian](#Obsidian)
 - [Articles](#articles)
 - [Books](#books)
@@ -50,43 +39,6 @@ Efficient note-taking with superior organizational capabilities. Integrates easi
 | Platform  | macOS, Windows, iOS, Android, web  |
 | URL       | https://onenote.com                |
 
-### Bear
-
-Note-taking in Markdown format, with tag-based organizational capabilities.
-
-![Bear](media/tool-bear.gif)
-
-| Property  | Value                                      |
-|-----------|--------------------------------------------|
-| Developer | [Shiny Frog](http://www.shinyfrog.net/)    |
-| Cost      | Freemium (_$16/yr subscription available_) |
-| Platform  | macOS, iOS                                 |
-| URL       | https://bear.app/                          |
-
-### Trello
-
-Kanban-style boards to manage work items. Integrates well with teams and other services. Has a rich extensibility platform.
-
-| Property  | Value                                          |
-|-----------|------------------------------------------------|
-| Developer | [Atlassian](https://www.atlassian.com/)        |
-| Cost      | Freemium (_$9.99/mo+ subscriptions available_) |
-| Platform  | macOS, Windows, iOS, Android, web              |
-| URL       | https://trello.com/                            |
-
-### Taiga
-
-Taiga is a project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.
-
-![Switching zoom modes in Kanban section](media/tool-taiga.gif)
-
-| Property  | Value                                                    |
-|-----------|----------------------------------------------------------|
-| Developer | [Kaleidos](https://kaleidos.net/)                        |
-| Cost      | Free (self-hosted) or [Freemium](https://taiga.io/) |
-| Platform  | macOS, Windows, iOS, Android, Web                        |
-| URL       | https://taiga.io                                    |
-
 ### To-Do
 
 A tool to quickly manage "to-dos".
@@ -111,30 +63,6 @@ All-in-one workspace for teams and individuals.
 | Platform  | macOS, Windows, iOS, Android, web                    |
 | URL       | https://notion.so/                                   |
 
-### Balsamiq
-
-Wireframing tool that allows building mocks without a strong focus on details. Extremely useful for situations where you don't want others to over-index on pixels and instead focus on the content.
-
-| Property  | Value                                          |
-|-----------|------------------------------------------------|
-| Developer | [Balsamiq Studios, LLC](https://balsamiq.com/) |
-| Cost      | Paid (_$89/person - permanent license_)        |
-| Platform  | macOS, Windows, web                            |
-| URL       | https://balsamiq.com/                          |
-
-### Sketch
-
-Mocking and prototyping made efficient. Offers many downloadable components that can help one create high-fidelity designs for websites, apps and other experiences.
-
-![Sketch](media/tool-sketch.gif)
-
-| Property  | Value                                                |
-|-----------|------------------------------------------------------|
-| Developer | [Bohemian B.V.](https://www.sketchapp.com/about-us/) |
-| Cost      | Paid (_$99/year_)                                    |
-| Platform  | macOS                                                |
-| URL       | https://www.sketchapp.com/                           |
-
 ### Figma
 
 A better way to design. Design, prototype, and collaborate all in the browser—with Figma.
@@ -148,82 +76,6 @@ A better way to design. Design, prototype, and collaborate all in the browser—
 | Platform  | macOS, Windows, web                  |
 | URL       | https://www.figma.com                |
 
-### Taskade
-
-Get work done with collaborative task lists, notes and video chat. Taskade is beautifully designed for remote teams.
-
-![Taskade](media/tool-taskade.gif)
-
-| Property  | Value                                                              |
-|-----------|--------------------------------------------------------------------|
-| Developer | [Taskade Inc.](https://taskade.com/about)                          |
-| Cost      | Freemium (_$0-10/month_)                                           |
-| Platform  | macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, Web |
-| URL       | https://www.taskade.com                                            |
-
-### Notejoy
-
-A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
-
-| Property  | Value                                                                                                            |
-|-----------|------------------------------------------------------------------------------------------------------------------|
-| Developer | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/) |
-| Cost      | Freemium (_$0-12/month_)                                                                                         |
-| Platform  | macOS, Windows, iOS, Android, web                                                                                |
-| URL       | https://notejoy.com                                                                                              |
-
-### productboard
-
-productboard is the product management system that helps you understand what users need, prioritize what to build, and rally everyone around your roadmap.
-
-![productboard](media/tool-productboard.png)
-
-| Property  | Value                                         |
-|-----------|-----------------------------------------------|
-| Developer | [productboard](https://www.productboard.com/) |
-| Cost      | Paid (starts at _$49/month_)                  |
-| Platform  | Web                                           |
-| URL       | https://productboard.com                      |
-
-### logchimp
-
-LogChimp allows you to track your customers feedback to build better products.
-
-![logchimp](media/logchimp.png)
-
-| Property  | Value                                        |
-|-----------|----------------------------------------------|
-| Developer | [LogChimp](https://logchimp.codecarrot.net/) |
-| Cost      | Free (Open source)                           |
-| Platform  | Web                                          |
-| URL       | https://logchimp.codecarrot.net              |
-
-
-### Hellonext
-
-Hellonext helps you close the user feedback loop. Comes with feedback portal, roadmap, and changelog.
-
-![hellonext](media/hellonext.png)
-
-| Property  | Value                                    |
-|-----------|------------------------------------------|
-| Developer | [Hellonext, Inc.](https://hellonext.co)  |
-| Cost      | Freemium (_$0-99/month_)                 |
-| Platform  | Web                                      |
-| URL       | https://hellonext.co                     |
-
-### Screeb
-
-Screeb is a product-led user research platform helping product teams to build better products by helping understand their users.
-
-![screeb](media/screeb.png)
-
-| Property  | Value                              |
-|-----------|------------------------------------|
-| Developer | [Screeb, Inc.](https://screeb.app) |
-| Cost      | Freemium (_start $0-39/month_)     |
-| Platform  | Web                                |
-| URL       | https://screeb.app                 |
 
 ### Obsidian
 
@@ -369,25 +221,3 @@ Clement Kao](https://producthq.org/author/clementkao/).
 | <img alt="Design Details" src="media/pod-design-details.jpg" width="100px" />          | Marshall Bock, Brian Lovin    | https://designdetails.fm                                                  | A weekly conversation about design process and culture. Hosted by Marshall Bock and Brian Lovin. |
 | <img alt="Product Hunt Radio" src="media/pod-product-hunt-radio.webp" width="100px" /> | Ryan Hoover, Abadesi Osunsade | https://podcasts.apple.com/us/podcast/product-hunt-radio/id862714883      | Product Hunt Radio is a a weekly podcast with the people creating and exploring the future. Tune in every week with Ryan Hoover and Abadesi Osunsade as they're joined by founders, investors, journalists, and makers to discuss the latest in tech. |
 
-## Communities
-
-- [Women in Product](https://www.womenpm.org/) (_using [Facebook](https://facebook.com)_)
-- [Product School](https://www.productschool.com/) (_using [Slack](https://slack.com/)_)
-- [The Product Coalition](https://productcoalition.com/) (_using [Slack](https://slack.com/)_)
-- [Product Collective](https://productcollective.com/) (_using [Slack](https://slack.com/)_)
-
-## Conferences
-
-- [Industry](https://industryconference.com/) - Over 3 days, attendees will learn from renowned product leaders and share the latest methods, tools, and frameworks that they use to build, launch and scale world-class software products. Building world-class software products is hard. At INDUSTRY you will see how others manage product in different environments, from fast-paced startups to complex large enterprises.
-- [ProductCon](https://www.productschool.com/productcon/) - Organized by Product School, ProductCon takes place five times a year with events in San Francisco, Los Angeles, New York, Seattle and London. The speaker lineup features product leaders from Google, Slack, Amazon, Airbnb, Netflix, Facebook and more. You’ll learn best practices behind the most successful products, and new trends in AI, VR, IoT and Blockchain. You’ll also have the opportunity to interact with all our sponsor companies interested in recruiting PMs.
-- [La Product Conf](https://www.laproductconf.com/) - Organized by Thiga, La Product Conf (LPC) takes place once a year with events in Paris (France) and Madrid (Spain). The speaker lineup features product leaders from Pinterest, Carrefour, Payfit, Google, Meetic and more.
-
-## Additional resources
-
-- [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
-- [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
-- [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
-
-## License
-
-Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
